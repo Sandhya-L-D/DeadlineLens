@@ -1,12 +1,14 @@
 streamlit
+opencv-python-headless
+easyocr
 pillow
 pytesseract
+numpy
 pandas
-dateparser
+python-dateutil
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-opencv-python
 plotly
 streamlit-calendar
 reportlab
