@@ -1,0 +1,8 @@
+{
+  "student_name": "Your Name",
+  "show_name_in_greeting": true,
+  "default_program": "MCA",
+  "default_study_hours": 2.0,
+  "daily_study_goal_minutes": 120,
+  "default_reminder_days": 2
+}
